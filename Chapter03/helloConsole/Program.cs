@@ -14,7 +14,7 @@ class Program
     static void Main(string[] args)
     {
         /* dotnet run */
-        HelloWorld();
+        // HelloWorld();
         
         /* dotnet run Packt */
         // PassingOneParameter(args);
@@ -23,7 +23,7 @@ class Program
         // PassingMoreThanOneParameter(args);
 
         /* dotnet run 42 */
-        // ParsingInputParameters(args);
+        //  ParsingInputParameters(args);
 
         /* dotnet run Packt Publishing */
         // SwitchingInputParameters(args);
@@ -32,7 +32,7 @@ class Program
         // MissingInputParameter(args);
         
         /* dotnet run */
-        // ConsoleProperties();
+        ConsoleProperties();
 
         /* dotnet run */
         // ReadLine();
